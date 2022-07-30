@@ -1,0 +1,10 @@
+package string_stringbuffer;
+
+public class Remove_Second_StingWith_Following {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

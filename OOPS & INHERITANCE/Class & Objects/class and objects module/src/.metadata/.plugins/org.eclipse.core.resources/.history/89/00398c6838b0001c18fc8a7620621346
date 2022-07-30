@@ -1,0 +1,10 @@
+package string_stringbuffer;
+
+public class Remove_star_with_lr_char {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

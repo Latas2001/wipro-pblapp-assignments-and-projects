@@ -1,0 +1,10 @@
+package inheritance_ani_bird;
+
+public class Animal_Bird_Funtions {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

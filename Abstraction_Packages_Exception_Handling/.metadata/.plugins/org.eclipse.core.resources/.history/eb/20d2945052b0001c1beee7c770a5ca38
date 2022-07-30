@@ -1,0 +1,11 @@
+package packages2;
+
+public class Solution {
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Compartment compartment = new Compartment(1000.55, 600.52, 578.24);
+		
+		System.out.println(compartment);
+	}
+
+}

@@ -1,0 +1,16 @@
+package class_object_inheritance;
+
+public class abc {
+	static int box(double h, double d, double b) {
+		double res;
+		res = h*d*b;
+		return res;
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("the ans is:- " +box(20.6,40.7,80.9));
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package packages2;
+
+public class User_Defined_Packages {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

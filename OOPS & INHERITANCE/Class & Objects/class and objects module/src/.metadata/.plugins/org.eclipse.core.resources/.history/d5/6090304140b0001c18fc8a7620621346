@@ -1,0 +1,10 @@
+package video_inventary_system;
+
+public class VideoStore {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

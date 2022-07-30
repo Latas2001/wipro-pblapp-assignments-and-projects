@@ -1,0 +1,15 @@
+package class_object_inheritance;
+
+public class abc {
+	static int box(int h, int d, int b) {
+		int res = h*d*b;
+		return res;
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("the ans is:- " +box(20,40,80));
+
+	}
+
+}

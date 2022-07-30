@@ -1,0 +1,22 @@
+package class_object_inheritance;
+
+public class ClassBox {
+	double h , w, d;
+	ClassBox(double width, double height, double depth){
+		h = height;
+		w = width;
+		d = depth;
+	}
+	double volume() {
+		double v;
+		v = h*w*d;
+		return v;
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		ClassBox bx = new ClassBox(8.5 , 80.3 , 9.6);
+		System.out.println(bx.volume());	}
+
+}

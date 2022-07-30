@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.wipro.task.DailyTasks"/>
+    <fullyQualifiedTypeName name="com.wipro.test.TestCheckPresence"/>
+    <fullyQualifiedTypeName name="com.wipro.test.TestSort"/>
+    <fullyQualifiedTypeName name="com.wipro.test.TestStringConcat"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+</qualifiedTypeNameHistroy>

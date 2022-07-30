@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+F:\Wipro java\Abstraction_Packages_Exception_Handling\.metadata\.plugins\org.eclipse.jdt.core
+154350995.index
+1621196319.index
+3105066429.index
+3857272933.index
+1454112807.index

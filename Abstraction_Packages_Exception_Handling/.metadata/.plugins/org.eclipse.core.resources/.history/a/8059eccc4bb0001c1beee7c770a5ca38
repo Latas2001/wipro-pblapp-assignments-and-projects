@@ -1,0 +1,10 @@
+package packages2;
+
+public class Compartment {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
